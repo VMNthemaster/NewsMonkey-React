@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Marlene Lenthang, Diana Dasrath",
+            "title": "Boyfriend charged with murder, torture in death of Kardashian family’s former business manager - NBC News",
+            "description": "The boyfriend of celebrity business manager Angela “Angie” Kukawski, who was found dead inside her car on Dec. 23, has been charged in her death, police said.",
+            "url": "https://www.nbcnews.com/news/us-news/boyfriend-charged-murder-torture-death-kardashian-familys-former-busin-rcna10404",
+            "urlToImage": "https://nodeassets.nbcnews.com/cdnassets/projects/socialshareimages-bento/og-nbcnews1200x630.png",
+            "publishedAt": "2021-12-30T14:03:30Z",
+            "content": "The boyfriend of celebrity business manager Angela Angie Kukawski, who was found dead inside her car last Thursday, has been charged in her death, police said.\r\nKukawski, 55, who had worked with high… [+2016 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "NFL Week 17 schedule, scores, updates and more - Fox News",
+            "description": "The Chiefs, Cowboys, Packers, Buccaneers, Rams and Cardinals have clinched playoff berths as the NFL heads into Week 17.",
+            "url": "https://www.foxnews.com/sports/nfl-week-17-2022-schedule-scores-updates",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/12/Jonathan-Taylor8.jpg",
+            "publishedAt": "2021-12-30T13:11:02Z",
+            "content": "There are two weeks left in the 2021 NFL season let that sink in.\r\nThe season is gone almost as soon as it came in, and much like the first week of the season, theres still so much left to be determi… [+2837 chars]"
+        }
+    ]
+}
